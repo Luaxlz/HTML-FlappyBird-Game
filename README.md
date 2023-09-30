@@ -1,7 +1,7 @@
 # <p align="center">FlappyBird Game</p>
 
 Projeto desenvolvido com HTML, CSS e muito JavaScript puro! Feito para a conclusão dos módulos de **HTML, CSS, JavaScript e Integração entre as três (Manipulação do DOM via JS)** do curso de Desenvolvimento WEB da [Cod3r!](https://www.cod3r.com.br)<br><br>
-[Você pode visualização e jogar o game aqui](https://luaxlz.github.io/Flappy_Bird/)
+<a href="https://luaxlz.github.io/Flappy_Bird/">Confira o jogo aqui!</a>
 
 ## Proposta:
 
